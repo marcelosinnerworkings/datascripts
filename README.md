@@ -2,7 +2,7 @@
 
 ## What is it?
 
-This repository contains Dockerfiles that, once run, perform tasks related to data. Its focus is on data engineering activities, such as ETL/ELT, data integration, etc., but other goals may occur in the future.
+This repository contains Dockerfiles that, once run, generate Docker containers to perform tasks related to data. Its focus is on data engineering activities, such as ETL/ELT, data integration, etc., but the repo may expand to other data activities in the future.
 
 The aim is to facilitate everyday tasks that would otherwise be cumbersome or not very intuitive.
 
